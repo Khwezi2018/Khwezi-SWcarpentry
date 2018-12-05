@@ -1,0 +1,6 @@
+Conversion functions needed:
+
+- rands to cnets
+- hours o minutes
+- kg to pounds
+
